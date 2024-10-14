@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzakkir280595
 - 👀 I’m interested in learning everything that can help me in my life.
-- 🌱 I’m currently learning Jmeter, Wireshark, Java.
+- 🌱 I’m currently learning Wireshark,TCPDump,OWASP ZAP and Java.
 - 📫 How to reach me: muzakkircareer@outlook.com
 - ⚡ Fun fact: When life gives you lemons 🍋… celebrate the opportunity for creativity 🎨 and change 💡. 
 
